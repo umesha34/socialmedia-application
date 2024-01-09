@@ -1,0 +1,11 @@
+#countL{
+    display: block;
+    font-size: 50px;
+    text-align: center;
+
+}
+button{
+    display: inline-block;
+    font-size: 20px;
+    text-align: center;
+}
